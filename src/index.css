@@ -21,6 +21,9 @@ code {
 }
 
 button {
+  outline-style: none;
+  box-shadow: none;
+  border-color: transparent;
   border: 1px solid #FFFFFF;
   background: #000000;
   color: #FFFFFF;
